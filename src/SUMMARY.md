@@ -9,6 +9,11 @@
 - [Reading Books](guide/reading.md)
 - [Creating a Book](guide/creating.md)
 
+# Crates
+
+- [clap](crates/clap.md)
+- [config](crates/config.md)
+
 # Reference Guide
 
 - [Command Line Tool](cli/README.md)
