@@ -1,0 +1,8 @@
+[book]
+authors = ["Aaron Tsui"]
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html]
+preferred-dark-theme = "navy"
