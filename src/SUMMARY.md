@@ -5,6 +5,7 @@
 # User Guide
 
 - [Knowleadge base](foundation/knowleadge.md)
+- [AI frameworks](foundation/ai.md)
 - [Installation](guide/installation.md)
 - [Reading Books](guide/reading.md)
 - [Creating a Book](guide/creating.md)
@@ -13,6 +14,7 @@
 
 - [clap](crates/clap.md)
 - [config](crates/config.md)
+- [trace/log](crates/trace.md)
 
 # Reference Guide
 
