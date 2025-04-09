@@ -44,6 +44,10 @@
   - [Preprocessors](for_developers/preprocessors.md)
   - [Alternative Backends](for_developers/backends.md)
 
+# courses
+
+- [Black hat Rust 2024](courses/BHR_2024.md)
+
 ---
 
 [Contributors](misc/contributors.md)
