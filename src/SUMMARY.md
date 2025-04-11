@@ -15,6 +15,9 @@
 - [clap](crates/clap.md)
 - [config](crates/config.md)
 - [trace/log](crates/trace.md)
+- [tokios](crates/tokios.md)
+- [tower/hyper](crates/tower.md)
+- [axum](crates/axum.md)
 
 # Reference Guide
 
